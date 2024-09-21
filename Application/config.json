@@ -1,0 +1,11 @@
+{
+    "application":{
+        "name":"NGL-(SECURE)"
+    },
+    "visibility":{
+        "letUserSeeErrors":false,
+        "letUserSelectMod":true,
+        "letUserSeeVersion":true,
+        "letUserProxySelection":true
+    }
+}
